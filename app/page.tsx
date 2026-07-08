@@ -11,7 +11,7 @@ export default function Home() {
           // SYSTEM OVERRIDE ACTIVE //
         </div>
         <h1 className="text-3xl md:text-5xl font-black tracking-tighter text-white drop-shadow-[0_0_10px_#ff007f]">
-          M. MULTAZAM AL GHAZALI
+          Muhammad Multazam Al Ghazali
         </h1>
         <p className="text-xl mt-2 text-[#00ffcc] font-bold uppercase tracking-wider">
           CORE ROLE: <span className="text-yellow-400">&gt; AI ARCHITECTURE_</span>
@@ -30,13 +30,13 @@ export default function Home() {
             <li className="flex items-start">
               <span className="text-yellow-400 mr-2">&gt;</span>
               <div>
-                <strong className="text-white">Ethical Hacking:</strong> Menguji & mengamankan celah keamanan sistem (White Hat).
+                <strong className="text-white">Ethical Hacking:</strong> Menguji & mengamankan celah keamanan sistem (White Hat Hacker).
               </div>
             </li>
             <li className="flex items-start">
               <span className="text-yellow-400 mr-2">&gt;</span>
               <div>
-                <strong className="text-white">AI Architecture:</strong> Merancang jaringan saraf tiruan & kecerdasan sistem masa depan.
+                <strong className="text-white">AI Architecture:</strong> Merancang jaringan saraf tiruan & kecerdasan sistem AI.
               </div>
             </li>
             <li className="flex items-start">
